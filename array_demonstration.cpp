@@ -80,4 +80,6 @@ int main() {
     }
 
     cout << "Last double: " << items.back() << endl;
+
+    return 0;
 }
